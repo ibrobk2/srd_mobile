@@ -40,6 +40,9 @@ import vectorUpArrow from "../assets/icons/vectorArrowUp.png";
 import vectorEmail from "../assets/icons/vectorEmail.png";
 import vectorPhone from "../assets/icons/vectorPhone.png";
 import wifiIcon from "../assets/icons/wifiIcon.png";
+//add new icons
+import user from "../assets/icons/user.png"
+import country from "../assets/icons/country.png"
 
 export default {
     accountLimit, arrowRM, accountNumberUser, bank, bell,
@@ -78,5 +81,7 @@ export default {
     vectorEmail,
     vectorPhone,
     wifiIcon,
+    user,
+    country
 };
 
