@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "myfifimfb",
-    "slug": "myfifimfb",
+    "name": "FiFiMFB",
+    "slug": "FiFiMFB",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -13,13 +13,15 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "package": "com.company.fifimfb"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.company.fifimfb"
     },
     "web": {
       "bundler": "metro",
